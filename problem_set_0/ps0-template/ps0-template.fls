@@ -384,6 +384,9 @@ INPUT c:/texlive/2026/texmf-dist/fonts/vf/adobe/times/ptmb7t.vf
 INPUT c:/texlive/2026/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm
 INPUT c:/texlive/2026/texmf-dist/fonts/vf/adobe/times/ptmb7t.vf
 INPUT c:/texlive/2026/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm
+INPUT c:/texlive/2026/texmf-dist/fonts/tfm/adobe/times/ptmro7t.tfm
+INPUT c:/texlive/2026/texmf-dist/fonts/vf/adobe/times/ptmro7t.vf
+INPUT c:/texlive/2026/texmf-dist/fonts/tfm/adobe/times/ptmro8r.tfm
 INPUT c:/texlive/2026/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm
 INPUT c:/texlive/2026/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 INPUT c:/texlive/2026/texmf-dist/tex/latex/psnfss/ot1pcr.fd
@@ -400,9 +403,6 @@ INPUT c:/texlive/2026/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm
 INPUT c:/texlive/2026/texmf-dist/fonts/tfm/adobe/courier/pcrr7t.tfm
 INPUT c:/texlive/2026/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm
 INPUT c:/texlive/2026/texmf-dist/fonts/tfm/adobe/courier/pcrr7t.tfm
-INPUT c:/texlive/2026/texmf-dist/fonts/tfm/adobe/times/ptmro7t.tfm
-INPUT c:/texlive/2026/texmf-dist/fonts/vf/adobe/times/ptmro7t.vf
-INPUT c:/texlive/2026/texmf-dist/fonts/tfm/adobe/times/ptmro8r.tfm
 INPUT c:/texlive/2026/texmf-dist/fonts/vf/adobe/courier/pcrr7t.vf
 INPUT c:/texlive/2026/texmf-dist/fonts/tfm/adobe/courier/pcrr8r.tfm
 INPUT c:/texlive/2026/texmf-dist/fonts/vf/adobe/courier/pcrr7t.vf
