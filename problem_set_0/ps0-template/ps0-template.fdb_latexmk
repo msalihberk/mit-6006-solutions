@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1795022761.8046 "c:/Users/Mustafa/Desktop/MIT 6.006/problem_set_0/ps0-template/ps0-template.tex" "ps0-template.pdf" "ps0-template" 1795022763.27198 0
-  "c:/Users/Mustafa/Desktop/MIT 6.006/problem_set_0/ps0-template/ps0-template.tex" 1795022761 3089 5fcf54c15bac2cb9dcc1f0765efa44f6 ""
+["pdflatex"] 1795025318.95186 "c:/Users/Mustafa/Desktop/MIT 6.006/problem_set_0/ps0-template/ps0-template.tex" "ps0-template.pdf" "ps0-template" 1795025320.3757 0
+  "c:/Users/Mustafa/Desktop/MIT 6.006/problem_set_0/ps0-template/ps0-template.tex" 1795025316 3658 3f5a1d67f47207cde00b94574e473b95 ""
   "c:/texlive/2026/texmf-dist/fonts/enc/dvips/base/8r.enc" 1795012644 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "c:/texlive/2026/texmf-dist/fonts/tfm/adobe/courier/pcrr7t.tfm" 1795013958 960 379cc0019370a9e0208a0a3f949f847a ""
   "c:/texlive/2026/texmf-dist/fonts/tfm/adobe/courier/pcrr8r.tfm" 1795013958 1292 bd42be2f344128bff6d35d98474adfe3 ""
@@ -37,6 +37,7 @@
   "c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb" 1795012544 36741 0ee9e374ec3e30da87cdfb0ea3575226 ""
   "c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb" 1795012544 35469 dcf3a5f2fc1862f5952e3ee5eb1d98c4 ""
   "c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1795012544 32722 d7379af29a190c3f453aba36302ff5a9 ""
+  "c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb" 1795012544 32734 69e00a6b65cedb993666e42eedb3d48f ""
   "c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb" 1795012544 32726 39f0f9e62e84beb801509898a605dbd5 ""
   "c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1795012544 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "c:/texlive/2026/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb" 1795013958 45758 19968a0990191524e34e1994d4a31cb6 ""
@@ -179,8 +180,8 @@
   "c:/texlive/2026/texmf-var/web2c/pdftex/pdflatex.fmt" 1795013432 2993503 09f12f981674152eeb0b4ac7f9cef0bf ""
   "c:/texlive/2026/texmf.cnf" 1795013399 713 e69b156964470283e0530f5060668171 ""
   "macros-sp20.tex" 1795011825 17065 56f91eb60d06ce1eb2a45ca67b2a13cd ""
-  "ps0-template.aux" 1795022763 32 044b7f8fc9779af7531264e0c5c84b6d "pdflatex"
-  "ps0-template.tex" 1795022761 3089 5fcf54c15bac2cb9dcc1f0765efa44f6 ""
+  "ps0-template.aux" 1795025320 32 044b7f8fc9779af7531264e0c5c84b6d "pdflatex"
+  "ps0-template.tex" 1795025316 3658 3f5a1d67f47207cde00b94574e473b95 ""
   (generated)
   "ps0-template.aux"
   "ps0-template.fls"
