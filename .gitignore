@@ -1,1 +1,10 @@
 __pycache__/
+._*
+.DS_Store
+__MACOSX/
+
+*.aux
+*.log
+*.fls
+*.fdb_latexmk
+*.synctex.gz
