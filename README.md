@@ -1,4 +1,4 @@
-# MIT 6.006: Introduction to Algorithms
+# MIT 6.006: Introduction to Algorithms *(In Progress)*
 
 Personal solutions for the problem sets and quizzes of **MIT 6.006**.
 
