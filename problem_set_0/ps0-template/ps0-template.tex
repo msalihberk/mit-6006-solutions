@@ -140,7 +140,7 @@ $\qed$
 In the base case, with a single vertex, a cycle cannot be formed. If we consider a connected graph with $k + 1$ vertices and $k$ edges, the sum of the degrees of the vertices is $2k$. 
 When we divide this by the total number of vertices, the average degree is less than 2. Since no vertex can have a degree of 0, we find that at least one vertex has a degree of 1. 
 Since a vertex of degree 1 cannot be part of a cycle, and when removed, the graph with $k$ vertices and $k-1$ edges is acyclic by the induction hypothesis, the statement holds true.
-\qed
+$\qed$
 
 \vfill
 \problem  % Problem 6
@@ -153,10 +153,29 @@ def count_long_subarray(A):
     Output: count | number of longest increasing subarrays of A
     '''
     count = 0
-    ##################
-    # YOUR CODE HERE #
-    ##################
+    max_long = 0
+    prev_long = 0
+    prev_element = None
+    for element in A:
+        if prev_element is None:
+            prev_element = element
+            continue
+        if element > prev_element:
+            prev_long += 1
+            if prev_long > max_long:
+                max_long = prev_long
+                count = 1
+            elif prev_long == max_long:
+                count += 1
+        elif prev_long != 0:
+            prev_long = 0
+        prev_element = element
+
+    if count == 0:
+        count = len(A)
+            
     return count
+
 \end{lstlisting}
 
 \end{problems}
